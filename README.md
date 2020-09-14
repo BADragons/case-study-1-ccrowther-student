@@ -8,4 +8,5 @@ tortioses the size of a football staium, and things that are half one thing like
 and half another thing like an armadillo. 
 3 general goals I want to have for my 
 website are 1st to be functional, to be organized, and to be really cool and fun. 
+My url will be creaturesscrambler.com. 
 I'm not sure about any other details yet but with all the animals I'll probably a topical guide.
