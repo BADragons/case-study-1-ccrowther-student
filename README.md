@@ -1,6 +1,6 @@
 # WD-CaseStudy
   I will be creating a personal website.
-My website will be about my favorite animals and random facts about them.
+My website will be about my favorite animals and amazing information about them.
 Some of them will be real animals, 
 and some of them will be made up. Many drawings will probably be featured.
 Some of the animals that will be included are dragons, griffins, tigers, mooshrooms, 
