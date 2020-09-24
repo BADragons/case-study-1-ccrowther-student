@@ -10,7 +10,8 @@ and half another thing like an armadillo.
 website are 1st to be functional, to be organized, and to be really cool and fun. 
 Each animal will have it's own page with an illistration and written information about it. 
 My url will be creaturescrambler.com. 
-I'm not sure about any other details yet but with all the animals I'll probably need a topical guide and lots of links. 
+I'm not sure about any other details yet but with all the animals I'll probably need a topical guide and lots of 
+links. 
 
 
 chapter 2
@@ -18,7 +19,7 @@ a.Add the date of last update at the bottom.
 b.I will use RSS and Discord and get GOOGLE to put my website in thier search list
 c.put chat boxes and places for comments
 d.My tagline will be: "ever wondered what what would happen if a bunny rabbit and a baby deer had a baby"
-e.
+e.I plan to make my website as colorful as possible I'm thinking possibly a green foresty look. 
 f.
 g.
 h.
