@@ -39,7 +39,7 @@ in complaints and suggestions you can suggest hybrids and base animals to be add
                                                                                                                                                                                 
                                                                                                                                                                                 
    chptr 3
-1. 
+1. ok did it. 
  a. Goals: make it funtional, stay on topic, stick the plan, cram it with pictures and drawings and weird facts until you can say that it being an eyesore is an understatement. 
  b. My website's target audience will be weirdos like me who like to "learn about nature and create new things" or to put it simply staring at things and smashing together animals to make horrible monstrosities normal people call hybrids. 
  c. homepage, mixer, library, browse, profile page, complaints/suggestions, settings, desinger. 
