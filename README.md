@@ -46,3 +46,11 @@ in complaints and suggestions you can suggest hybrids and base animals to be add
  d. images of animals drawn by me or from other websites without copyright issues. 
  e. i'm planning on doing the webbed website structure for my website because of the freeness in wich can move between pages. 
 2. 
+
+
+
+
+
+chpter 4
+1. did it!
+2. done!
